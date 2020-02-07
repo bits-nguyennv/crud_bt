@@ -5,7 +5,7 @@
             <tr>
                 <td>ID</td>
                 <td>Tên học sinh</td>
-                <td>Số điện thoại</td>
+                <td>điện thoại</td>
                 <td colspan="2">Action</td>
             </tr>
         </thead>
